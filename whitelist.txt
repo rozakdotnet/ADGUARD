@@ -4,4 +4,5 @@ api.cloudflare.com
 *.cloudflare.com
 cfd-features.argotunnel.com
 *.argotunnel.com
+cfd-features.argotunnel.com 
 chatgpt.com
