@@ -8,3 +8,4 @@ cfd-features.argotunnel.com
 chatgpt.com
 github.com
 *.github.com
+api.telegram.com
