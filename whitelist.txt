@@ -9,3 +9,8 @@ chatgpt.com
 github.com
 *.github.com
 api.telegram.org
+telegram.org
+core.telegram.org
+t.me
+telegram.me
+*.telegram.org
